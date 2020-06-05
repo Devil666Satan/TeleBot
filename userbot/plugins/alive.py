@@ -14,7 +14,7 @@ async def amireallyalive(alive):
     await alive.edit("   **Welcome To DevilBot ** \n\n"
         "**`Hey! I'm alive. All systems online and functioning normally... ψ(｀∇´)ψ`**\n\n"
                       "` 🔸 Telethon version:` **6.9.0**\n` 🔹 Python:` **3.7.3** \n` 🔸 \n"
-                     "` 🔹 Bot created by:` [𝕷𝖎𝖌𝖍𝖙 𝕭𝖗𝖎𝖓𝖌𝖊𝖗 ](https://t.me/Light_Bringer666)\n"
+                     "` 🔹 Bot created by:`𝕷𝖎𝖌𝖍𝖙 𝕭𝖗𝖎𝖓𝖌𝖊𝖗 \n"
                      "` 🔸 Database Status:` **All OK 👌!**\n"
                      f"` 🔹 My peru owner`: {DEFAULTUSER}\n\n"
                      "           [✨ GitHub Repository ✨](https://github.com/Devil666Satan/TeleBot)")
